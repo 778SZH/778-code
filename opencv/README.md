@@ -1,8 +1,8 @@
-# OpenCV 练习（6 题）
+# OpenCV
 
 环境：Visual Studio 2022 + OpenCV 4.13.0（预编译包）。
 
-单个工程，六道练习各写成一个函数（`work1` 命名空间），`main.cpp` 里取消对应注释即可单独跑。
+单个工程，各写成一个函数（`work1` 命名空间），`main.cpp` 里取消对应注释即可单独跑。
 
 `CMakeLists.txt` 里的 `OpenCV_DIR` 指向本机 OpenCV 的 `build` 目录，先改成你自己的路径再编译：
 
