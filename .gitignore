@@ -1,0 +1,17 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+*.dll
+*.lib
+
+# CMake / VS 生成目录
+build/
+*/build/
+.vs/
+out/
+
+# 编辑器
+.vscode/
+.idea/
+*.user
